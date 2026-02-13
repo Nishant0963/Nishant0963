@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Nishant Loomba
-**A passionate FrontEnd Developer**
+**A passionate Data Analyst**
 
 Email Me 👉 ✉️ **nishantloomba01@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 My Portfolio https://nishantloomba.netlify.app/
